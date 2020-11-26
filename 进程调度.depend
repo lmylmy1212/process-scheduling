@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1606314890 source:d:\操作系统代码\进程调度\file_read.cpp
+	"string.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"file_read.h"
+
+1606314511 d:\操作系统代码\进程调度\file_read.h
+	"string.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1606316483 source:d:\操作系统代码\进程调度\main.cpp
+	<iostream>
+	"file_read.h"
+	"FCFS.h"
+	<vector>
+	"file_write.h"
+
+1606315459 d:\操作系统代码\进程调度\fcfs.h
+	"string.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1606317148 source:d:\操作系统代码\进程调度\fcfs.cpp
+	"string.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"file_read.h"
+	"file_write.h"
+	"FCFS.h"
+
+1606316483 d:\操作系统代码\进程调度\file_write.h
+	<iostream>
+	<fstream>
+
+1606316764 source:d:\操作系统代码\进程调度\file_write.cpp
+	<iostream>
+	<fstream>
+	"file_write.h"
+	"file_read.h"
+	"FCFS.h"
+
